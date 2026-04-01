@@ -25,15 +25,12 @@ Key requirements:
 
 Add your screenshot here:
 
-```
-./screenshot.jpg
-```
-
+![alt text](<Screenshot 2026-04-01 050507.png>)
 
 ### Links
 
-* Solution URL: Add your GitHub repo link here
-* Live Site URL: Add your deployed link here
+* Solution URL: [Add your GitHub repo link here](https://github.com/GodwinOkon112/Article-Preview-Component)
+* Live Site URL: (https://article-preview-component-delta-puce.vercel.app/)
 
 
 ## My process
